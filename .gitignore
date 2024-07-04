@@ -1,1 +1,8 @@
 .env
+/logs
+/__pycache__
+create_model.ipynb
+tweet_pred.ipynb
+/results
+/logs
+/model_fe/classifier.safetensors
