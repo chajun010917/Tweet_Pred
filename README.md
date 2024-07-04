@@ -22,3 +22,9 @@ To run the model, execute the following command in your terminal:
 
 ```sh
 python run_model.py
+```
+
+## Acknowledgment
+
+ChatGPT-4 was used throughout this project for debugging, formating, and general assistance.
+
