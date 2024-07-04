@@ -6,6 +6,8 @@
 
 Please download all the necessary files from this GitHub repository.
 
+To just test the model, you can simply download the `/model_fe` directory, `run_model.py`, `custom_T5_model.py`, and `Q2_20230202_majority_top_30.csv`. Then, follow Step 2.
+
 ### Step 2: Download Model File from Google Drive
 
 In addition to the files from GitHub, you need to download the `classifier.safetensors` file from Google Drive. 
